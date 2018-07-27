@@ -1,0 +1,42 @@
+[INFO]Encrypt
+Text: ciao
+Morse: -.-. .. .- --- 
+[INFO]Encrypt
+Text: insert here a sentence to convert into morse
+Morse: .. -. ... . .-. -   .... . .-. .   .-   ... . -. - . -. -.-. .   - ---   -.-. --- -. ...- . .-. -   .. -. - ---   -- --- .-. ... . 
+[INFO]Decryptor
+Morse: ..
+Text: 
+[INFO]Decryptor
+Morse: ..
+Text: 
+[INFO]Decryptor
+Morse: ..- .. -
+Text: 
+[INFO]Decryptor
+Morse: .. --. --
+Text: 
+[INFO]Decryptor
+Morse: ..
+Text: i
+[INFO]Encrypt
+Text: questa e una prova
+Morse: --.- ..- . ... - .-   .   ..- -. .-   .--. .-. --- ...- .- 
+[INFO]Decryptor
+Morse: --.- ..- . ... - .-   .   ..- -. .-   .--. .-. --- ...- .- 
+Text: questaeunaprova
+[INFO]Decryptor
+Morse: --.- ..- . ... - .-   .   ..- -. .-   .--. .-. --- ...- .- 
+Text: questaeunaprova
+[INFO]Decryptor
+Morse: mCoded += " ";    
+Text: ????
+[INFO]Decryptor
+Morse: --.- ..- . ... - .-   .   ..- -. .-   .--. .-. --- ...- .-                
+Text: questaeunaprova
+[INFO]Decryptor
+Morse: --.- ..- . ... - .-   .   ..- -. .-   .--. .-. --- ...- .- 															
+Text: questaeunaprova
+[INFO]Encrypt
+Text: prova
+Morse: .--. .-. --- ...- .- 
